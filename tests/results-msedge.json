@@ -1,0 +1,10 @@
+{
+  "passed": 41,
+  "errors": [],
+  "externalRequests": [],
+  "browser": "msedge (headless)",
+  "version": "156.0.4314.58",
+  "protocol": "file:",
+  "api": "mock only",
+  "date": "2026-11-02"
+}
